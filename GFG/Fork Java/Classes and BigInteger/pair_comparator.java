@@ -1,3 +1,5 @@
+//https://practice.geeksforgeeks.org/problems/pair-in-java/1/?track=module-3-classes%20and-biginteger-java&batchId=114
+//https://www.journaldev.com/780/comparable-and-comparator-in-java-example
 class custom_Compare{
     
     public static Comparator<Pair> comp = new Comparator<Pair>(){
